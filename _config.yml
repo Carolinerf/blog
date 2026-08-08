@@ -1,0 +1,26 @@
+# Site settings
+title: the singularity is nearer
+description: >-
+  A home for poorly researched ideas that I find myself repeating a lot anyway.
+baseurl: "/blog"
+url: "https://carolinerf.github.io"
+
+# Social links (footer)
+email: your@email.com
+twitter_username: your_twitter
+github_username: carolinerf
+
+# Author
+author:
+  name: carolinerf
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Jekyll default permalink: /:categories/:year/:month/:day/:title.html
+# which, combined with baseurl /blog, gives:
+#   /blog/jekyll/update/2026/07/12/my-post.html
+permalink: /:categories/:year/:month/:day/:title.html
