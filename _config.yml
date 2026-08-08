@@ -7,12 +7,11 @@ url: "https://carolinerf.github.io"
 
 # Social links (footer)
 email: holmes00h@gmail.com
-twitter_username: none
+twitter_username: 
 github_username: carolinerf
 
 # Author
-author:
-  name: carolinerf
+author: carolinerf
 
 # Build settings
 theme: minima
